@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 217e378e3e7ead9469252a07b70e972c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1469644982818878256
+    second: "Ta\xEDno-Leader_0"
+  - first:
+      213: -2007723508538020988
+    second: "Ta\xEDno-Leader_1"
+  - first:
+      213: -2075776042171183481
+    second: "Ta\xEDno-Leader_2"
+  - first:
+      213: -5677888670475536998
+    second: "Ta\xEDno-Leader_3"
+  - first:
+      213: 18838468964704157
+    second: "Ta\xEDno-Leader_4"
+  - first:
+      213: -2175896657548975143
+    second: "Ta\xEDno-Leader_5"
+  - first:
+      213: -6528435039621639314
+    second: "Ta\xEDno-Leader_6"
+  - first:
+      213: -1904626886318868231
+    second: "Ta\xEDno-Leader_7"
+  - first:
+      213: -9027489564373510181
+    second: "Ta\xEDno-Leader_8"
+  - first:
+      213: -6044860265218483758
+    second: "Ta\xEDno-Leader_9"
+  - first:
+      213: -374421727256614186
+    second: "Ta\xEDno-Leader_10"
+  - first:
+      213: -9015323281601140736
+    second: "Ta\xEDno-Leader_11"
+  - first:
+      213: -7676309816302087749
+    second: "Ta\xEDno-Leader_12"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Ta\xEDno-Leader_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 505
+        height: 1015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc4525bca5ca9be0800000000000000
+      internalID: -1469644982818878256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ta\xEDno-Leader_1"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 914
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48be36a3b122324e0800000000000000
+      internalID: -2007723508538020988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ta\xEDno-Leader_2"
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 840
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ece1500bc5133e0800000000000000
+      internalID: -2075776042171183481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ta\xEDno-Leader_3"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 833
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95371246561431b0800000000000000
+      internalID: -5677888670475536998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ta\xEDno-Leader_4"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 828
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fd0cadc7de24000800000000000000
+      internalID: 18838468964704157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ta\xEDno-Leader_5"
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 832
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d365d2b489adc1e0800000000000000
+      internalID: -2175896657548975143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ta\xEDno-Leader_6"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 544
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63932cabe65665a0800000000000000
+      internalID: -6528435039621639314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ta\xEDno-Leader_7"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 549
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f83e4320f76195e0800000000000000
+      internalID: -1904626886318868231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ta\xEDno-Leader_8"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 343
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd798f5221ae7b280800000000000000
+      internalID: -9027489564373510181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ta\xEDno-Leader_9"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 353
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d957c6ad975c1ca0800000000000000
+      internalID: -6044860265218483758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ta\xEDno-Leader_10"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 297
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da6eae3c69cdcaf0800000000000000
+      internalID: -374421727256614186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ta\xEDno-Leader_11"
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 217
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008ead89d3323e280800000000000000
+      internalID: -9015323281601140736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ta\xEDno-Leader_12"
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 99
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1587594e4487590800000000000000
+      internalID: -7676309816302087749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Ta\xEDno-Leader_0": -1469644982818878256
+      "Ta\xEDno-Leader_1": -2007723508538020988
+      "Ta\xEDno-Leader_10": -374421727256614186
+      "Ta\xEDno-Leader_11": -9015323281601140736
+      "Ta\xEDno-Leader_12": -7676309816302087749
+      "Ta\xEDno-Leader_2": -2075776042171183481
+      "Ta\xEDno-Leader_3": -5677888670475536998
+      "Ta\xEDno-Leader_4": 18838468964704157
+      "Ta\xEDno-Leader_5": -2175896657548975143
+      "Ta\xEDno-Leader_6": -6528435039621639314
+      "Ta\xEDno-Leader_7": -1904626886318868231
+      "Ta\xEDno-Leader_8": -9027489564373510181
+      "Ta\xEDno-Leader_9": -6044860265218483758
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

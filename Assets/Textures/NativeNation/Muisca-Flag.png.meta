@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 84c1819945646d542b6518f2d593964e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 711712987755608507
+    second: Muisca-Flag_0
+  - first:
+      213: 6274790895928504662
+    second: Muisca-Flag_1
+  - first:
+      213: -1394265548329123584
+    second: Muisca-Flag_2
+  - first:
+      213: 153968581638778231
+    second: Muisca-Flag_3
+  - first:
+      213: 1121212297727321289
+    second: Muisca-Flag_4
+  - first:
+      213: -4611611757210025250
+    second: Muisca-Flag_5
+  - first:
+      213: -4884838818169635038
+    second: Muisca-Flag_6
+  - first:
+      213: 4158523944698078392
+    second: Muisca-Flag_7
+  - first:
+      213: 1807944210049087187
+    second: Muisca-Flag_8
+  - first:
+      213: -5503045928788294832
+    second: Muisca-Flag_9
+  - first:
+      213: -6455459758411774164
+    second: Muisca-Flag_10
+  - first:
+      213: -6801954404628937953
+    second: Muisca-Flag_11
+  - first:
+      213: 1619121613369388573
+    second: Muisca-Flag_12
+  - first:
+      213: 1589390759391850778
+    second: Muisca-Flag_13
+  - first:
+      213: 4620429512336570307
+    second: Muisca-Flag_14
+  - first:
+      213: -8987146865490591414
+    second: Muisca-Flag_15
+  - first:
+      213: -7116561061058657801
+    second: Muisca-Flag_16
+  - first:
+      213: 8915425344777451523
+    second: Muisca-Flag_17
+  - first:
+      213: 4464057216476030495
+    second: Muisca-Flag_18
+  - first:
+      213: -202354296684724250
+    second: Muisca-Flag_19
+  - first:
+      213: 3247290072441887372
+    second: Muisca-Flag_20
+  - first:
+      213: -4194327626241913345
+    second: Muisca-Flag_21
+  - first:
+      213: 4423907508947116042
+    second: Muisca-Flag_22
+  - first:
+      213: 7148523320175759488
+    second: Muisca-Flag_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Muisca-Flag_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb97439013380e900800000000000000
+      internalID: 711712987755608507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 248
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6517ca71319841750800000000000000
+      internalID: 6274790895928504662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 249
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0010745fed296ace0800000000000000
+      internalID: -1394265548329123584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 247
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d6627fb91032200800000000000000
+      internalID: 153968581638778231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 236
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c426d3f4a85f8f00800000000000000
+      internalID: 1121212297727321289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 239
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed24b794a834000c0800000000000000
+      internalID: -4611611757210025250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 249
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fb5f1d9f0953cb0800000000000000
+      internalID: -4884838818169635038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 247
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b46fa1be7b06b930800000000000000
+      internalID: 4158523944698078392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 249
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d633bd1eab171910800000000000000
+      internalID: 1807944210049087187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 236
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0530ae752e041a3b0800000000000000
+      internalID: -5503045928788294832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 231
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27890e5d899966a0800000000000000
+      internalID: -6455459758411774164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 237
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1340bdd18a9a91a0800000000000000
+      internalID: -6801954404628937953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 232
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e2a056786487610800000000000000
+      internalID: 1619121613369388573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 234
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11f6d68976ae0610800000000000000
+      internalID: 1589390759391850778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 237
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c77d8059201f1040800000000000000
+      internalID: 4620429512336570307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 235
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a410b22ba8d374380800000000000000
+      internalID: -8987146865490591414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 237
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1c83d8b65ec3d90800000000000000
+      internalID: -7116561061058657801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 237
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30879f87d14f9bb70800000000000000
+      internalID: 8915425344777451523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16a215036483fd30800000000000000
+      internalID: 4464057216476030495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef355bd6d7113df0800000000000000
+      internalID: -202354296684724250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a1d82bd11b01d20800000000000000
+      internalID: 3247290072441887372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 119
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd4e361f31cac5c0800000000000000
+      internalID: -4194327626241913345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00e9f5c070e46d30800000000000000
+      internalID: 4423907508947116042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muisca-Flag_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0801cafc518a43360800000000000000
+      internalID: 7148523320175759488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Muisca-Flag_0: 711712987755608507
+      Muisca-Flag_1: 6274790895928504662
+      Muisca-Flag_10: -6455459758411774164
+      Muisca-Flag_11: -6801954404628937953
+      Muisca-Flag_12: 1619121613369388573
+      Muisca-Flag_13: 1589390759391850778
+      Muisca-Flag_14: 4620429512336570307
+      Muisca-Flag_15: -8987146865490591414
+      Muisca-Flag_16: -7116561061058657801
+      Muisca-Flag_17: 8915425344777451523
+      Muisca-Flag_18: 4464057216476030495
+      Muisca-Flag_19: -202354296684724250
+      Muisca-Flag_2: -1394265548329123584
+      Muisca-Flag_20: 3247290072441887372
+      Muisca-Flag_21: -4194327626241913345
+      Muisca-Flag_22: 4423907508947116042
+      Muisca-Flag_23: 7148523320175759488
+      Muisca-Flag_3: 153968581638778231
+      Muisca-Flag_4: 1121212297727321289
+      Muisca-Flag_5: -4611611757210025250
+      Muisca-Flag_6: -4884838818169635038
+      Muisca-Flag_7: 4158523944698078392
+      Muisca-Flag_8: 1807944210049087187
+      Muisca-Flag_9: -5503045928788294832
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

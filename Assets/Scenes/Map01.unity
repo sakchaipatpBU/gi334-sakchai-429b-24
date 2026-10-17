@@ -129,7 +129,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Tupi
+      value: Wampanoag
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -436,7 +436,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Huron
+      value: Kalinago
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1809,7 +1809,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Sioux
+      value: Mikmaq
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2731,7 +2731,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Apache
+      value: Pueblo
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2804,7 +2804,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Iroquois
+      value: Powhatan
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2877,7 +2877,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Maya
+      value: Muisca
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3194,9 +3194,28 @@ MonoBehaviour:
   - {fileID: 11400000, guid: f74c7a7c9bed7d74db0ba2de57160977, type: 2}
   - {fileID: 11400000, guid: 5e5888ebd0846cd4f9c4e795ffb1d6d5, type: 2}
   - {fileID: 11400000, guid: eca9540f40838db4eacd0db7e44a5b44, type: 2}
+  - {fileID: 11400000, guid: ab7e3d797ed741b49eb6fb6b2aa7714f, type: 2}
+  - {fileID: 11400000, guid: 3c52b146d9d54453ad0012191759b685, type: 2}
+  - {fileID: 11400000, guid: 0a0996ab55484fc89387c97b6cb0a020, type: 2}
+  - {fileID: 11400000, guid: 510f4973391e4011814cc0ab4b36f069, type: 2}
+  - {fileID: 11400000, guid: 4bf26b6686074fbc8d04144d89b792a8, type: 2}
+  - {fileID: 11400000, guid: 3ff5500b917b4a36b818f3604f35daab, type: 2}
+  - {fileID: 11400000, guid: a3b2f550a6fa4888ae09359c16bb173c, type: 2}
+  - {fileID: 11400000, guid: 4484da7a66684c708c6ba58efa9e856b, type: 2}
+  - {fileID: 11400000, guid: 76f2b3393ab04455a0fda53b32c2c487, type: 2}
+  - {fileID: 11400000, guid: 08b5e53a851a4de2af832545ce74e856, type: 2}
+  - {fileID: 11400000, guid: 59720aa287604bc59cdcd94909fdb931, type: 2}
+  - {fileID: 11400000, guid: 6579ba7b59b2444596b818441c730bc8, type: 2}
+  - {fileID: 11400000, guid: 2cfb84311d424127b919ca69c9dd3569, type: 2}
+  - {fileID: 11400000, guid: 8d6659bb922549839ff407bc63108bb9, type: 2}
+  - {fileID: 11400000, guid: ced4832ba7df47829a54e00d835581c0, type: 2}
   navalUnitData:
   - {fileID: 11400000, guid: c2b629827c9821d4185b71e921d8e2b9, type: 2}
   - {fileID: 11400000, guid: 7a2216c04fddf454f9d2e84a0c848308, type: 2}
+  - {fileID: 11400000, guid: e2cb37a908e049f28f6f83ccea9810e5, type: 2}
+  - {fileID: 11400000, guid: e565dfca91994e739add5def406c3b50, type: 2}
+  - {fileID: 11400000, guid: a8c561b7dcd9498699681fbe97a5654a, type: 2}
+  - {fileID: 11400000, guid: d657a6823e3b46af9184215ddba14788, type: 2}
   playerTurn: 1
   gameTurn: 1
   nativeTownNum: 0
@@ -3414,7 +3433,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Inca
+      value: Mapuche
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3487,7 +3506,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Aztec
+      value: Taino
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
